@@ -39,7 +39,7 @@ Data Extraction and NLP.py
 3. The output file "output.csv" will be generated in the same directory.
 
 ## Notes
-1. The input file should follow the structure specified in "Input Data Structure.xlsx".
+1. The input file should follow the structure specified in "Input.xlsx".
 
 2. If any error occurs during data extraction or analysis, an error message will be displayed, and the script will continue to process the remaining URLs.
 
