@@ -46,3 +46,9 @@ Data Extraction and NLP.py
 3. The output file will contain the computed variables and sentiment analysis scores for each URL in the input file.
 
 4. Please note that the sentiment analysis scores are based on the VADER sentiment analysis tool and may not always perfectly reflect the sentiment of the article.
+
+## Contributing
+If you find any issues or have any suggestions for improvement, feel free to create a pull request or open an issue.
+
+## License
+This project is licensed under the `MIT License` - see the License file for details.
