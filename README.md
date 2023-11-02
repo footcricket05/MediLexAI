@@ -39,4 +39,4 @@ To set up the project, follow these steps:
 If you encounter issues or have suggestions for improvement, please consider creating a pull request or opening an issue.
 
 ## License
-This project is licensed under the MIT License. See the License file for more details.
+This project is licensed under the `MIT License`. See the License file for more details.
